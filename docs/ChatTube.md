@@ -1,109 +1,29 @@
-#### 1. 经验 > 总结
+### ChatTube Docs
 
-我们当下看到的各种插件，基本上做的都是做的summarization的功能，但是认真思考一下，在一个Youtube的视频中，真正给我们很多思考的时刻是，某一秒，某一句话，某一个画面。
 
-summarization提供的是做了一个大纲的作用，做的是总结内容的作用，而并不是给人启发，所以ChatTube就提供了一种主动的方式，来寻找这些"Eureka"时刻。
 
+#### 1. Experience > Summarization
 
+Many of the plugins we see today offer a summarization feature, condensing content into key points. However, upon careful consideration, during a Youtube video, moments that provoke deep thinking often come from a particular second, a specific phrase, or a certain image. Summarization serves as an outline and summarizes content but doesn't necessarily inspire us. That's where ChatTube comes in, providing an active approach to seek these "Eureka" moments.
 
-#### 2. 从兴趣与好奇心出发
+#### 2. Driven by Interest and Curiosity
 
-从学习到精通某样东西往往需要很长的时间，如果我们时时刻刻都有兴趣，那么，接触的越多，了解的越多就越好玩。ChatTube就提供了一种方式，从之前的被动接受信息，到主动探索式寻求信息。
+Mastering something often takes a considerable amount of time, and sustained interest can make this process enjoyable. The more we engage, the more fun it becomes. ChatTube introduces an active information-seeking approach, shifting from passive reception of information. For example, we can feed all of Steve Jobs' videos to the bot, assign it the role of Steve Jobs, and start a conversation. Our brains do not think linearly and are often discontinuous. The thrill of exploring new topics often leads to a more focused and curious mindset.
 
+#### 3. Engaging Conversations with Interesting Minds
 
-我可以把steve jobs的视频全部喂给它，赋予这个bot, Steve jobs的角色，开启一个对话。
+Founded in 1998 by John Brockman, the Edge organization hosts an annual gathering of distinguished figures from various scientific fields, including Nobel laureates. One can only imagine the excitement of participating in these discussions, hearing directly from Daniel Kahneman about how the brain thinks, or from Nassim Nicholas Taleb about probability theory and systemic risk, or from astrophysicists about their exploration of the cosmos. With ChatTube, it's no longer one-way communication. We're having conversations.
 
-大脑的思维往往不是线性的，而经常是非连续的，我们平时聊天都可能是这样，突然切到一个小话题，就不知不觉的聊下去了，而且，每次切到这些新话题的时候，我们往往会由着好奇心驱使，更加专注。
+#### 4. Time-traveling Iterations
 
+Furthermore, we can even train these personalities into individual "persons." Just as we might initiate a conversation on Twitter Spaces, we could bring in figures like Qin Shi Huang, Charles Darwin, J. Robert Oppenheimer, and Steve Jobs for a chat. And they can continuously learn and discuss a wide range of interesting topics.
 
+#### 5. Voice and Text
 
-#### 3.对话有意思的头脑
+Humans have known about text for less than a thousand years, with the invention of the movable-type printing press by Bi Sheng around 1045 and Johannes Gutenberg around 1450. However, the vast majority of people didn't gain literacy until after the 1978 reforms in China. In contrast, spoken language has existed for at least 100,000 years. Humans understand and are more familiar with spoken language than text. Voice is for expressing, text for recording - the former is significantly faster than the latter. It's hard to imagine a scenario where everyone uses typing for meetings.
 
-John Brockman 在1998年成立了Edge组织，这个组织每年都会聚一次，参与者有很多科学领域的杰出人物，诺奖获得者。
+#### 6. Talk 2 Earn Economic Model Design
 
-我当然很想参与到这个活动中来，听到他们之间的对话，想想就很有趣。听丹尼尔卡尼曼讲讲人脑如何思考，听塔勒布讲讲概率论与系统风险，听宇宙学家如何如何探索星空。
+We can devise a new set of indicators to measure the density of new knowledge. In the past, Youtubers would create videos based on their own knowledge, with ads serving as third-party services. The new economic model envisions users generating novel ideas after watching a video, which can lead to more interesting creations. The users, through their talk, provide a feedback loop to the system. They can earn tokens corresponding to this measure, which can be used to pay for third-party advertiser fees, platform revenue, and creator income. Creators can also use tokens to boost their own user base.
 
-这当然和直接看书/看Youtube不一样，这样直接听，我们是听这些人单向的接受信息，而有了ChatTube之后，就是一种双向的沟通，畅聊。
-
-
-
-#### 4.穿越古今，模型迭代
-
-这还不够，我甚至可以把这些人训练成一个个单独的"人"。就像我们平时在twitter上面开一个Space一样，我甚至可以把秦始皇拉进来，把达尔文拉进来，把Oppenheimer拉进来，把Steve Jobs 拉进来。
-
-他们之间还可以不断的学习讨论，聊各种有趣的话题。
-
-
-
-#### 5.语音与文字
-
-人类从古腾堡发明印刷机(大概1450年)，毕昇发明了活字印刷术(大概1045年)，大部分人类对文字的认识还不到1000年，而真正的大部分人开始"脱盲"，其实是在1978年的改革开放后才慢慢实现。
-
-而有声语言的出现(口语)，至少在10万年之前。
-
-所以，人对语音的认识，熟悉的程度是远远大于文字的。语音是表达，文字是记录，表达要比记录快很多很多倍。
-
-总不能设想一个场景，人人都在使用打字来开会吧。
-
-
-
-#### 6. Talk 2 Earn的经济模型设计
-
-我们可以做一套新的指标，来记录新的知识，增加的密度。 
-
-之前的创造者关系是Youtuber基于他自己的认识，创造视频，视频中的广告是第三方服务。
-
-而新的经济模型设计，用户在看完这个视频之后，有个新的想法，可以用来创造更多有意思的东西，那么这个用户通过Talk，用户的语言中对整套体系有了正反馈的作用，同时用户在这个过程也可以根据这条指标，获得对应数量的token。
-
-这个token，支付第三方广告商的费用，平台的收入，以及创作者的收入，创造者也可以通过代币来boost自己的用户。
-
-每一方都是进行增长的，用户获得了新知识，创作者获得了收益以及更多的反馈，平台获得了用户和Youtuber的更多的注意力支持，以及第三方广告商获得了更多的收益。
-
-由之前的单向创作关系，现在迭代到双向的，互相激励的模式。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Every stakeholder is on a growth path: users gain new knowledge, creators get revenue and more feedback, the platform garners more user and creator support, and third-party advertisers achieve more income. This transitions the system from a one-way creation relationship to a mutually encouraging, two-way interaction.
