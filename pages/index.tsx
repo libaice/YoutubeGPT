@@ -41,7 +41,7 @@ export default function Home() {
           <div className={styles.cloud}>
             <div ref={messageListRef} className={styles.messageListRef}>
               {/* {messages.map((message, index) => {
-
+                  
               }))} */}
             </div>
           </div>
