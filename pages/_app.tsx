@@ -1,15 +1,20 @@
 import '@/styles/base.css';
-import { Inter } from "next/font/google";
-import type { AppProps } from "next/app";
+import type { AppProps } from 'next/app';
+import { Inter } from 'next/font/google';
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+  variable: '--font-inter',
+  subsets: ['latin'],
 });
-export default function MyApp({ Component, pageProps }: AppProps) {
+
+function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <main className={inter.className}>
-      <Component {...pageProps} />
-    </main>
+    <>
+      <main className={inter.variable}>
+        <Component {...pageProps} />
+      </main>
+    </>
   );
 }
+
+export default MyApp;
