@@ -8,3 +8,7 @@ Talk to guys in youtube interactilly
 3. get response, and talk it with edge-tts
 4. (Talk To Earn) (Share to earn) Econimical system
 ![Image of chatYoutube](https://github.com/libaice/YoutubeGPT/assets/48044642/217d5c9b-3c03-438a-8248-0018b47f3672)
+
+---
+
+![talk2earn](https://github.com/libaice/YoutubeGPT/assets/48044642/1a645ce9-5634-4190-80a4-af3ab8cb8ca0)
